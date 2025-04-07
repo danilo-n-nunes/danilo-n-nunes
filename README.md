@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Full Stack Developer PHP
+- 🔭 I’m currently working on Full Stack Developer
 - 🌱 I’m currently learning Big Data
 - 🤔 I’m looking for help with A.I.
 - 💬 Ask me about my jobs
